@@ -1,2 +1,2 @@
 # PatientResult
-This repository is used for view PatientResult
+This repository is used for view PatientResult.
